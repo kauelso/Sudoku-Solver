@@ -1,0 +1,13 @@
+This Program is basic a Sudoku solver made in C . It only solve 9x9 sudoku.
+To use it , just put a "sudoku.txt" text file with the sudoku (example below) and compile/run the .c .
+----sudoku.txt example----------
+6 0 0 0 0 4 5 0 2
+0 0 4 0 9 0 6 0 0
+7 3 0 5 0 0 0 9 0
+9 0 0 0 2 0 3 0 0
+0 2 0 7 0 3 0 1 0
+0 0 3 0 5 0 0 0 7
+0 7 0 0 0 5 0 4 3
+0 0 5 0 4 0 2 0 0
+4 0 6 2 0 0 0 0 9
+--------------------------------
